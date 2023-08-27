@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/declaracion-main/declaracion-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "declaracion-main"
+	}
+}
